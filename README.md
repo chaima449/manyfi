@@ -1,0 +1,2 @@
+# manyfi
+manage your finance
